@@ -46,4 +46,4 @@ for i in range(0, num_of_blocks_to_add):
   print "Block #{} has been added to the blockchain!".format(block_to_add.index)
   print "Timestamp: {}\n".format(block_to_add.timestamp) 
   print "Hash: {}\n".format(block_to_add.hash) 
-  print "Data: {}\n".format(block_to_add.data) 
+  print "Data is : {}\n".format(block_to_add.data) 
